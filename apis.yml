@@ -1,4 +1,6 @@
 aid: edison-international
+tags:
+  - Fortune 500
 url: 
   https://raw.githubusercontent.com/api-evangelist/edison-international/refs/heads/main/apis.yml
 modified: '2026-04-28'
