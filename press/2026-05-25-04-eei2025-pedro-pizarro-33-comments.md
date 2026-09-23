@@ -1,7 +1,9 @@
 ---
 title: '#eei2025 | Pedro Pizarro | 33 comments'
 url: https://www.linkedin.com/posts/pedro-pizarro-087a5287_eei2025-activity-7335781073370460160-1oAC
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Edison International" press release artificial intelligence'
 position: 4
 source: serpapi-google

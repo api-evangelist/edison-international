@@ -1,7 +1,9 @@
 ---
 title: EEI Announces 2025 Domestic Edison Award Winner
 url: https://www.eei.org/en/news/news/all/eei-announces-2025-domestic-edison-award-winner
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Edison International" press release artificial intelligence'
 position: 2
 source: serpapi-google
